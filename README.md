@@ -21,15 +21,11 @@
 
 
 
-!\[SRIMCA Logo](s.png)
+!\[SRIMCA Logo](images/s.png)
 
 
 
-
-
-!\[UTU Logo](u.jpg)
-
-
+!\[UTU Logo](images/u.jpg)
 
 
 
