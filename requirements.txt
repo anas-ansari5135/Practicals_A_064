@@ -1,2 +1,0 @@
-Java JDK 17 or above
-Git
