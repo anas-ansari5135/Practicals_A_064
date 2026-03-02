@@ -19,15 +19,19 @@
 
 
 
-
-
-!\[SRIMCA Logo](images/s.png)
+\## 🏫 Logos
 
 
 
-!\[UTU Logo](images/u.jpg)
+\### SRIMCA
+
+<img src="images/s.png" width="200">
 
 
+
+\### UTU
+
+<img src="images/u.jpg" width="200">
 
 📘 Subject
 
