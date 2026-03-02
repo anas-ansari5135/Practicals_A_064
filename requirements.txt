@@ -1,0 +1,4 @@
+
+Java JDK 17+
+Git
+VS Code / IntelliJ IDEA
